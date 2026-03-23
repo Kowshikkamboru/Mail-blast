@@ -4,15 +4,14 @@ import * as XLSX from "xlsx";
 const STEPS = ["Profile", "Email Setup", "Companies", "Generate & Send"];
 
 const defaultProfile = {
-  name: "Amboru Koushik",
+  name: "",
   email: "",
-  phone: "+91 7780239794",
-  roles: "Software Engineer, Full-Stack Developer, Frontend Developer",
-  portfolioLink: "amborukoushik.carrd.co",
-  linkedIn: "linkedin.com/in/koushikamboru",
-  github: "github.com/Kowshikkamboru",
-  about:
-    "Recent B.Tech CSE (AI & ML) graduate with hands-on experience building full-stack web and mobile products. Skilled in Next.js, Flutter, Node.js, PostgreSQL, Firebase, and AWS. Passionate about creating impactful products at the intersection of AI and great UX.",
+  phone: "",
+  roles: "",
+  portfolioLink: "",
+  linkedIn: "",
+  github: "",
+  about: "",
 };
 
 const statusColors = {
