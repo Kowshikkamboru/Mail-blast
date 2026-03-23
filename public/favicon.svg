@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0a0c10"/>
+  <rect x="24" y="24" width="464" height="464" rx="48" fill="none" stroke="#f0b429" stroke-width="6"/>
+  <text x="256" y="200" text-anchor="middle" font-family="monospace" font-size="180" font-weight="bold" fill="#f0b429">M</text>
+  <text x="256" y="360" text-anchor="middle" font-family="monospace" font-size="80" font-weight="bold" fill="#f0b429">BLAST</text>
+  <circle cx="400" cy="120" r="40" fill="#34d399" opacity="0.9"/>
+  <path d="M382 120 l12 12 l24-24" stroke="#0a0c10" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

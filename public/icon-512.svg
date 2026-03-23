@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="61" fill="#0a0c10"/>
+  <rect x="26" y="26" width="461" height="461" rx="46" fill="none" stroke="#f0b429" stroke-width="6"/>
+  <text x="256" y="215" text-anchor="middle" font-family="monospace" font-size="179" font-weight="bold" fill="#f0b429">M</text>
+  <text x="256" y="369" text-anchor="middle" font-family="monospace" font-size="77" font-weight="bold" fill="#f0b429">BLAST</text>
+</svg>
