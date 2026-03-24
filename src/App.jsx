@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 import * as XLSX from "xlsx";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 const STEPS = ["Profile", "Email Setup", "Companies", "Generate & Send"];
 
