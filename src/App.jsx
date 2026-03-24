@@ -1,5 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 import * as XLSX from "xlsx";
+import { Analytics } from "@vercel/analytics/next";
 
 const STEPS = ["Profile", "Email Setup", "Companies", "Generate & Send"];
 
@@ -591,6 +592,7 @@ Resume PDF is attached automatically if uploaded.`}
 
       {renderModal()}
       {toast && <div style={s.toast(toast.type)}>{toast.msg}</div>}
+      <Analytics />
     </div>
   );
 }
